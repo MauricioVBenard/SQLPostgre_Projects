@@ -1,0 +1,4 @@
+CREATE TABLE brands(
+brand_id SERIAL PRIMARY key,
+brand_name VARCHAR(50) NOT NULL UNIQUE
+);
