@@ -1,4 +1,4 @@
-
+Markdown
 
 # Luxury Retail E-commerce Data Analysis
 
@@ -81,7 +81,7 @@ Before proceeding with any analysis, a rigorous data validation process was cond
   UNION ALL
   SELECT 'order_items', COUNT(*) FROM order_items;
 Result:
--- PASTE YOUR ACTUAL QUERY OUTPUT HERE
+-- PASTE YOUR ACTUAL QUERY OUTPUT HERE (e.g., from your screenshot)
 table_name | count
 ------------+-------
 brands       |    10
@@ -149,6 +149,7 @@ Query:
 SQL
 
 -- PASTE YOUR ACTUAL SQL QUERY FOR SALES TRENDS HERE (e.g., monthly revenue)
+-- Example:
 -- SELECT TO_CHAR(order_date, 'YYYY-MM') AS sales_month,
 --        SUM(total_amount) AS monthly_revenue
 -- FROM orders
@@ -163,6 +164,7 @@ Query (Top Products by Quantity):
 SQL
 
 -- PASTE YOUR ACTUAL SQL QUERY FOR TOP PRODUCTS BY QUANTITY HERE
+-- Example:
 -- SELECT p.product_name, b.brand_name, SUM(oi.quantity) AS total_quantity_sold
 -- FROM order_items oi
 -- JOIN products p ON oi.product_id = p.product_id
@@ -225,7 +227,7 @@ Prerequisites: Ensure you have PostgreSQL (v14+) and pgAdmin 4 installed. Git mu
 Clone the repository:
 Bash
 
-git clone [https://github.com/YourUsername/luxury_retail_db_analysis.git]((https://www.linkedin.com/in/mauricio-v-benard-566627b2/))
+git clone [https://github.com/YourUsername/luxury_retail_db_analysis.git](https://github.com/YourUsername/luxury_retail_db_analysis.git)
 cd luxury_retail_db_analysis
 Database Setup:
 Open pgAdmin 4 and connect to your PostgreSQL server.
@@ -237,5 +239,3 @@ Run the data_population.sql script to insert sample data into the tables (this s
 Run Analysis:
 Execute queries from data_validation_queries.sql and analysis_queries.sql in pgAdmin's Query Tool to perform quality checks and generate business insights.
 (Later: Open the Power BI file (.pbix) to explore the interactive dashboard.)
-Contact
-Feel free to connect with me on LinkedIn for any questions, collaborations, or discussions about data analysis!
