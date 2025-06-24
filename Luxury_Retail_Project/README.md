@@ -225,7 +225,7 @@ Prerequisites: Ensure you have PostgreSQL (v14+) and pgAdmin 4 installed. Git mu
 Clone the repository:
 Bash
 
-git clone [https://github.com/YourUsername/luxury_retail_db_analysis.git](https://github.com/YourUsername/luxury_retail_db_analysis.git)
+git clone [https://github.com/YourUsername/luxury_retail_db_analysis.git]((https://www.linkedin.com/in/mauricio-v-benard-566627b2/))
 cd luxury_retail_db_analysis
 Database Setup:
 Open pgAdmin 4 and connect to your PostgreSQL server.
