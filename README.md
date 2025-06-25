@@ -111,7 +111,7 @@ The following insights were extracted from the database using SQL queries, addre
 * **Insight:** [Describe the distribution. E.g., "The majority of orders are in 'Completed' status (X%), with a small percentage in 'Pending' (Y%) and 'Cancelled' (Z%), indicating efficient order processing."]
 
   ![image](https://github.com/user-attachments/assets/6e25deb3-16d3-4a43-a639-35cfccba25e4)
-![image](https://github.com/user-attachments/assets/6e25deb3-16d3-4a43-a639-35cfccba25e4)
+
 
 * **Insight:** The majority of orders are successfully delivered (19 orders), with a smaller portion in 'Shipped' (6 orders) and 'Pending' (5 orders) status. This indicates a relatively efficient fulfillment process with most orders reaching completion.
 
