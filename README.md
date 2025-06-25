@@ -58,16 +58,13 @@ The database is populated with synthetic, yet realistic, data to simulate transa
 
 Prior to analysis, a series of data validation checks were performed to ensure the integrity, consistency, and quality of the loaded dataset. These checks confirmed:
 
-## Data Validation (`data_validation_queries.sql`)
-
-Prior to analysis, a series of data validation checks were performed to ensure the integrity, consistency, and quality of the loaded dataset. These checks confirmed:
-
 * **Accurate Row Counts:** All tables were populated with the expected number of records, ensuring complete data loading.
     * `brands`: 10 rows
     * `products`: 51 rows
     * `customers`: 50 rows
     * `orders`: 30 rows
     * `order_items`: 57 rows
+      
 * **Primary Key Uniqueness:** All primary key columns across all tables contained unique values, ensuring each record is uniquely identifiable. (Expected: 0 rows returned for duplicates)
 * **Foreign Key Integrity:** All foreign key references correctly linked to existing records in their respective parent tables, preventing orphaned data. (Expected: 0 rows returned for orphans)
 * **Data Range and Consistency:**
