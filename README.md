@@ -108,7 +108,6 @@ The following insights were extracted from the database using SQL queries, addre
 * **Insight:** [Which categories are performing best? E.g., "The 'Handbags' and 'Watches' categories collectively generated the highest revenue, aligning with expectations for high-value luxury goods."]
 
 ### 10. Orders by Status
-* **Insight:** [Describe the distribution. E.g., "The majority of orders are in 'Completed' status (X%), with a small percentage in 'Pending' (Y%) and 'Cancelled' (Z%), indicating efficient order processing."]
 
   ![image](https://github.com/user-attachments/assets/6e25deb3-16d3-4a43-a639-35cfccba25e4)
 
