@@ -86,7 +86,7 @@ The following insights were extracted from the database using SQL queries, addre
 ### 2. Top-Performing Products by Revenue
 * **Insight:** [List the top 2-3 products and their brands. E.g., "The 'Gucci GG Marmont Matelasse Shoulder Bag' and 'Louis Vuitton Speedy Bandouliere 25' were the leading products by revenue, indicating strong demand for iconic handbag items."]
 
-### 3. Top-Performing Products by Quantity Sold
+ ### 3. Top-Performing Products by Quantity Sold
 * **Insight:** [Compare this to revenue. E.g., "While handbags led in revenue, smaller, more accessible items like 'Chanel N°5 Eau de Parfum' were top sellers by sheer quantity, highlighting diverse customer purchasing habits."]
 
 ### 4. Top-Performing Brands by Revenue
@@ -109,6 +109,11 @@ The following insights were extracted from the database using SQL queries, addre
 
 ### 10. Orders by Status
 * **Insight:** [Describe the distribution. E.g., "The majority of orders are in 'Completed' status (X%), with a small percentage in 'Pending' (Y%) and 'Cancelled' (Z%), indicating efficient order processing."]
+
+  ![image](https://github.com/user-attachments/assets/6e25deb3-16d3-4a43-a639-35cfccba25e4)
+![image](https://github.com/user-attachments/assets/6e25deb3-16d3-4a43-a639-35cfccba25e4)
+
+* **Insight:** The majority of orders are successfully delivered (19 orders), with a smaller portion in 'Shipped' (6 orders) and 'Pending' (5 orders) status. This indicates a relatively efficient fulfillment process with most orders reaching completion.
 
 ## Technologies Used
 
