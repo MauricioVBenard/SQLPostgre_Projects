@@ -58,12 +58,16 @@ The database is populated with synthetic, yet realistic, data to simulate transa
 
 Prior to analysis, a series of data validation checks were performed to ensure the integrity, consistency, and quality of the loaded dataset. These checks confirmed:
 
+## Data Validation (`data_validation_queries.sql`)
+
+Prior to analysis, a series of data validation checks were performed to ensure the integrity, consistency, and quality of the loaded dataset. These checks confirmed:
+
 * **Accurate Row Counts:** All tables were populated with the expected number of records, ensuring complete data loading.
-    * `brands`: [Your actual count, e.g., 10] rows
-    * `products`: [Your actual count, e.g., 51] rows
-    * `customers`: [Your actual count, e.g., 50] rows
-    * `orders`: [Your actual count, e.g., 30] rows
-    * `order_items`: [Your actual count, e.g., 57] rows
+    * `brands`: 10 rows
+    * `products`: 51 rows
+    * `customers`: 50 rows
+    * `orders`: 30 rows
+    * `order_items`: 57 rows
 * **Primary Key Uniqueness:** All primary key columns across all tables contained unique values, ensuring each record is uniquely identifiable. (Expected: 0 rows returned for duplicates)
 * **Foreign Key Integrity:** All foreign key references correctly linked to existing records in their respective parent tables, preventing orphaned data. (Expected: 0 rows returned for orphans)
 * **Data Range and Consistency:**
@@ -108,9 +112,6 @@ The following insights were extracted from the database using SQL queries, addre
 * **Insight:** [Which categories are performing best? E.g., "The 'Handbags' and 'Watches' categories collectively generated the highest revenue, aligning with expectations for high-value luxury goods."]
 
 ### 10. Orders by Status
-
-  ![image](https://github.com/user-attachments/assets/6e25deb3-16d3-4a43-a639-35cfccba25e4)
-
 
 * **Insight:** The majority of orders are successfully delivered (19 orders), with a smaller portion in 'Shipped' (6 orders) and 'Pending' (5 orders) status. This indicates a relatively efficient fulfillment process with most orders reaching completion.
 
