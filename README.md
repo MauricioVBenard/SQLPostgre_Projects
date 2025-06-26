@@ -86,7 +86,17 @@ The following insights were extracted from the database using SQL queries, addre
 * **Insight:** The monthly revenue trend shows fluctuations over the period. While some months like March 2023 ($17,690.00) and July 2023 ($22,500.00) saw higher revenues and orders, other months had lower figures. The data spans from March 2023 to February 2024, providing a year-long overview of sales performance.
 
 ### 2. Top-Performing Products by Revenue
-* **Insight:** [List the top 2-3 products and their brands. E.g., "The 'Gucci GG Marmont Matelasse Shoulder Bag' and 'Louis Vuitton Speedy Bandouliere 25' were the leading products by revenue, indicating strong demand for iconic handbag items."]
+* **Insight:** This analysis clearly identifies the primary revenue drivers within our product catalog. The top five products by total revenue demonstrate significant financial contribution, highlighting which items are central to our profitability.
+
+Hermès leads the pack with a substantial revenue of $23,160.00, underscoring its position as a premium revenue generator.
+
+Celine follows closely, contributing $17,340.00, signifying its strong market appeal.
+
+Dior (with $11,800.00) and Fendi (with $9,800.00) represent other significant high-value contributors.
+
+Chanel rounds out the top five with $8,000.00.
+
+This data is crucial for strategic decisions related to inventory prioritization, marketing focus, and understanding the financial impact of our most valuable product offerings. It suggests that focusing on maintaining strong stock levels and marketing efforts for these high-revenue products will directly support profitability goals.
 
  ### 3. Top-Performing Products by Quantity Sold
 * **Insight:** [Compare this to revenue. E.g., "While handbags led in revenue, smaller, more accessible items like 'Chanel N°5 Eau de Parfum' were top sellers by sheer quantity, highlighting diverse customer purchasing habits."]
