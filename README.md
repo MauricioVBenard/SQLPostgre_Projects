@@ -146,7 +146,16 @@ This insight suggests that while there are a few customers demonstrating repeat 
 
 
 ### 7. Product Stock Levels vs. Sales
-* **Insight:** [Identify potential issues. E.g., "Several top-selling products, such as 'Hermès Birkin Bag,' show very low current stock, indicating potential stockout risks and missed sales opportunities."]
+* **Insight:**  Product Stock Levels vs. Sales
+Insight: This analysis compares the current stock levels of our top-selling products (by quantity) against their historical sales, identifying potential inventory risks and opportunities.
+
+The Celine "Belt Bag", which is the highest-selling product by quantity (2 units sold), still maintains a healthy stock of 15 units. This suggests good inventory management for a popular item.
+
+However, other top-selling bags like the Dior "Book Tote" (8 units in stock for 1 unit sold), Louis Vuitton "Onthego GM" (8 units in stock for 1 unit sold), and Chanel "Classic Flap Bag" (5 units in stock for 1 unit sold) also show adequate stock levels relative to their single unit sales in this dataset.
+
+A notable point for attention is the Hermès "Birkin 30", which despite having sold 1 unit (making it a top-selling item), has a very low current stock of only 2 units. This indicates a potential stockout risk for a highly desirable luxury item, which could lead to missed sales opportunities.
+
+This insight is crucial for optimizing inventory strategies, ensuring that popular items are adequately stocked to meet demand while avoiding overstocking of slower-moving goods. It directly informs purchasing decisions and helps prevent lost revenue due to stockouts, particularly for high-demand, limited-availability products like the Hermès Birkin.
 
 ### 8. Average Order Value (AOV)
 * **Insight:** [State the AOV. E.g., "The average order value was calculated to be $X,XXX, providing a benchmark for customer spending per transaction."]
