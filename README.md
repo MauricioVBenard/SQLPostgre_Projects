@@ -161,7 +161,13 @@ This insight is crucial for optimizing inventory strategies, ensuring that popul
 * **Insight:** The calculated Average Order Value (AOV) for this dataset is $3,339.33. This key performance indicator provides a crucial benchmark for the typical spending per transaction within our luxury retail e-commerce platform. Understanding the AOV helps in assessing customer spending habits and can inform strategies aimed at increasing the value of each order, such as cross-selling, upselling, or minimum purchase incentives.
 
 ### 9. Sales by Product Category
-* **Insight:** [Which categories are performing best? E.g., "The 'Handbags' and 'Watches' categories collectively generated the highest revenue, aligning with expectations for high-value luxury goods."]
+* **Insight:** This analysis clearly identifies the dominant revenue-generating categories within our luxury retail offerings.
+
+Bags are the overwhelmingly leading category, contributing a substantial $92,640.00 to total revenue, underscoring their central role in our product portfolio and customer demand.
+
+Shoes follow with $7,540.00 in revenue.
+
+This insight provides critical guidance for merchandising, inventory allocation, and marketing strategies. It confirms that 'Bags' represent the core of our business and should continue to be a primary focus, while 'Shoes' represent a secondary, yet important, revenue stream to be nurtured.
 
 ### 10. Orders by Status
 
