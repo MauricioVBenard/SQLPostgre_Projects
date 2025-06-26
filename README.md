@@ -82,20 +82,8 @@ These validations ensure that the data is reliable for accurate business analysi
 The following insights were extracted from the database using SQL queries, addressing common business questions for a luxury retail e-commerce platform:
 
 ### 1. Overall Sales Performance: Monthly Revenue Trend
-* **Insight:**
-* "month",  "revenue", "orders" 
-* "2023-03"	17690.00	4
-"2023-04"	9250.00	3
-"2023-05"	7090.00	3
-"2023-06"	6360.00	3
-"2023-07"	22500.00	2
-"2023-08"	6900.00	2
-"2023-09"	3890.00	2
-"2023-10"	4000.00	2
-"2023-11"	7000.00	2
-"2023-12"	5400.00	2
-"2024-01"	4750.00	2
-"2024-02"	5350.00	3
+
+* **Insight:** The monthly revenue trend shows fluctuations over the period. While some months like March 2023 ($17,690.00) and July 2023 ($22,500.00) saw higher revenues and orders, other months had lower figures. The data spans from March 2023 to February 2024, providing a year-long overview of sales performance.
 
 ### 2. Top-Performing Products by Revenue
 * **Insight:** [List the top 2-3 products and their brands. E.g., "The 'Gucci GG Marmont Matelasse Shoulder Bag' and 'Louis Vuitton Speedy Bandouliere 25' were the leading products by revenue, indicating strong demand for iconic handbag items."]
