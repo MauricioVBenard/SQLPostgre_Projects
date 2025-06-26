@@ -158,7 +158,7 @@ A notable point for attention is the Hermès "Birkin 30", which despite having s
 This insight is crucial for optimizing inventory strategies, ensuring that popular items are adequately stocked to meet demand while avoiding overstocking of slower-moving goods. It directly informs purchasing decisions and helps prevent lost revenue due to stockouts, particularly for high-demand, limited-availability products like the Hermès Birkin.
 
 ### 8. Average Order Value (AOV)
-* **Insight:** [State the AOV. E.g., "The average order value was calculated to be $X,XXX, providing a benchmark for customer spending per transaction."]
+* **Insight:** The calculated Average Order Value (AOV) for this dataset is $3,339.33. This key performance indicator provides a crucial benchmark for the typical spending per transaction within our luxury retail e-commerce platform. Understanding the AOV helps in assessing customer spending habits and can inform strategies aimed at increasing the value of each order, such as cross-selling, upselling, or minimum purchase incentives.
 
 ### 9. Sales by Product Category
 * **Insight:** [Which categories are performing best? E.g., "The 'Handbags' and 'Watches' categories collectively generated the highest revenue, aligning with expectations for high-value luxury goods."]
