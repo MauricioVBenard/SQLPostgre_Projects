@@ -99,7 +99,15 @@ Chanel rounds out the top five with $8,000.00.
 This data is crucial for strategic decisions related to inventory prioritization, marketing focus, and understanding the financial impact of our most valuable product offerings. It suggests that focusing on maintaining strong stock levels and marketing efforts for these high-revenue products will directly support profitability goals.
 
  ### 3. Top-Performing Products by Quantity Sold
-* **Insight:** [Compare this to revenue. E.g., "While handbags led in revenue, smaller, more accessible items like 'Chanel N°5 Eau de Parfum' were top sellers by sheer quantity, highlighting diverse customer purchasing habits."]
+* **Insight:** Top-Performing Products by Quantity Sold
+Insight: When analyzing product performance by sheer quantity of units sold, a distinct pattern emerges compared to revenue leaders.
+
+The "Belt Bag" from Celine stands out significantly, having sold 2 units, making it the most frequently purchased item in this specific dataset.
+
+Following the Celine Belt Bag, a range of other high-end bags, including the "Book Tote" (Dior), "Classic Flap Bag" (Chanel), "La Medusa Top Handle Bag" (Versace), "Onthego GM" (Louis Vuitton), "Olympia Bag" (Burberry), "Sunshine Shopper" (Fendi), "Birkin 30" (Hermès), and "Ava Bag" (Celine), each sold 1 unit.
+
+This insight is crucial for inventory management and understanding direct customer demand. While these products might not always be the highest revenue drivers individually, their consistent sales volume highlights their popularity and the need to ensure adequate stock levels to meet demand. The dominance of "Bags" as a category across both quantity and revenue suggests it's a core segment for the luxury retail business.
+
 
 ### 4. Top-Performing Brands by Revenue
 * **Insight:** [Identify the top brands. E.g., "Gucci, Louis Vuitton, and Chanel emerged as the top three revenue-generating brands, solidifying their dominant position in the luxury market."]
